@@ -6,7 +6,7 @@ This project demonstrates a client implementation for the Coding Cloud Model Con
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:claudiotx/coding-cloud-mcp-client-demo.git
    cd coding-cloud-mcp-client-demo
    ```
 
